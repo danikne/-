@@ -20,7 +20,7 @@ hr{
 }
 .ka{
     background-color: #fff;
-
+    
 }
 .otgruzki{
     width: 500px;
@@ -35,10 +35,10 @@ hr{
     border: solid 2px;
     background-image: url(WQqLV.jpg);
     background-position: left;
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
+    background-color: #fff;
     background-size: contain;
     background-position: center;
-    background-color: white;
     border-radius: 100px;
     width: 1000px;
     margin-left:400px;
